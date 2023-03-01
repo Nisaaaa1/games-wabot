@@ -4,7 +4,7 @@ global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '62857139649630': { // put your number here
     name: 'Owner Metro Bot/Creator games-wabot',
-    isDev: false, // if true this number will send if bot have bug and developer mode true
+    isDev: true , // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
@@ -19,12 +19,12 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6285713964963': {
+  '6281226374060': {
     isReport: true // if true this number will send if user use command /report or /join
   },
-  '13479805233': {} // ignore if you don't want anything, like name dll
+  '6281325163206': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['13479805233'] // Want some help?
+global.mods = ['6281390658325'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
